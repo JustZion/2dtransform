@@ -1,0 +1,369 @@
+body {
+font-family: "Nunito", sans-serif;
+    
+
+}
+
+.header_main {
+    margin-top: 82px ;
+}
+
+div.header {
+    height: 140px;
+    padding: 10px 0px;
+    border-radius: 20px;
+}
+
+
+
+.small_com {
+    font-size: 11px !important;
+    margin-left: -7px;
+
+}
+
+@media only screen and (max-width: 498px) {
+div.header {
+   
+}
+div.logo {
+    margin-bottom: 1px;
+    padding: 4px;
+    margin-left: 30%;
+    width: 63px;
+    
+}
+div.header-text-div {
+    
+}
+}
+
+@media only screen and (min-width: 500px) {
+    div.logo {
+    
+        margin-bottom: 1px;
+        padding: 4px;
+        width: 63px;
+        margin-left: 38%;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    div.logo {
+    
+        margin-bottom: 1px;
+        padding: 4px;
+        width: 69px;
+        margin-left: 42%;
+    }
+}
+
+
+
+img.image-logo {
+    height: 60px;
+    width: 80px
+}
+h4.header-text {
+    font-family: "Nunito" , sans-serif !important;
+    font-weight: 600;
+    font-size: 27.5px;
+}
+
+div.header-text-div {
+    
+}
+
+.login_row {
+    margin-top: 100px;
+    padding: 0px !important;
+
+}
+
+.right_side_login {
+    
+}
+
+
+.form_register {
+    margin-top: 26.6px;
+    padding: 0px 3.5%;
+   
+    
+}
+
+.form_div {
+    margin-top: 32px !important;
+    padding: 0px 5%;
+}
+
+
+.create_header {
+margin-top: 47px;
+margin-left: 0%;
+padding: 0px 1%;
+}
+
+.row_header {
+    margin-top: -10px;
+    padding: 0px 1%;
+    
+}
+
+.create_header_text {
+    font-size: 20px;
+    line-height: 24px !important;
+    font-weight: 600;
+}
+
+div.input-field {
+    margin-left: -18px;
+}
+label.default-label {
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    right: 30px;
+    color: black !important;
+    
+}
+
+label.default-label-select {
+    font-size: 14px !important;
+    font-weight: 300;
+    position: relative;
+    left: -1px;
+    right: 30px;
+    color: black !important;
+
+}
+
+input.default-input {
+    
+    border-radius: 18px !important;
+    height: 45px !important;
+    font-size: 12px !important;
+    padding: 0px !important;
+    padding-left: 15px !important;
+
+    outline: none;
+    border-bottom: none!important;
+    box-shadow: none!important;
+
+    
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: none!important;
+    box-shadow: none!important;
+    
+  }
+
+  default-input::placeholder {
+      color:red !important;
+    
+  }
+
+  ::-webkit-input-placeholder { /* Edge */
+    color: grey;
+    
+    
+  }
+
+  .gender_date {
+      margin-left: -18px
+  }
+
+  div.select-input {
+    border-radius: 20px;
+    padding: 0px 10px 0px 10px !important;
+    
+    text-decoration: none;
+    margin-top: 25px;
+  }
+
+  .select-label {
+      position: absolute !important;
+        top: -35px !important;
+        left: -1px !important;
+        font-size: 15px !important;
+        color: black !important;
+  }
+
+  .date-field {
+      margin-top: 5.7px;
+  }
+
+  .forgot-pass {
+      margin-right: -20px;
+      margin-top: -10px;
+      font-size: 13px;
+      
+  }
+
+  div.button-row {
+      margin-top: 40px;
+  }
+
+  div.button-row-login {
+    margin-top: 80px;
+}
+
+  button.button-input {
+      padding: 0px !important;
+      border-radius: 25px;
+      font-size: 16px;
+      height: 46px !important;
+      width: 135px !important;
+      font-weight: 900px !important;
+  }
+
+
+  span {
+      
+      font-size: 12px !important;
+  }
+
+  a.alternative-link {
+     
+    font-size: 13px !important;
+  }
+  a.supreme-link {
+    text-decoration: underline;
+  font-size: 13px !important;
+}
+
+.terms {
+    margin-top: 40px;
+}
+
+
+div.select-wrapper > .select-dropdown {
+    border-bottom: none;
+}
+
+div.select-wrapper {
+    height: 45px !important;
+}
+
+  
+/* DESKTOP VIEW */
+
+.desktop_header_text {
+    font-size: 32px;
+}
+
+.below_desktop_header_text {
+    font-size: 12px;
+}
+
+.desktop_register_main {
+    padding: 0px !important;
+}
+
+
+@media only screen and (min-width: 993px) {
+
+    body {
+        background-image: url("../images/obito.jpg")  ;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+
+
+    .image_logo_desktop {
+        margin:-17px 0px 0px -52px !important;
+    }
+
+    .desktop_main_register_text {
+        margin: 0px;
+        width: 100%;
+        
+    }
+
+    .desktop_register_header_cover {
+        margin-top: 45px !important;
+    }
+
+    .below_desktop_header_text {
+        font-size: 12px;
+        font-weight: 300;
+    }
+
+    .desktop_register_main {
+        margin: 50px 0px;
+        border-radius: 30px !important;
+    }
+
+    .bottom_row {
+        padding: 0px !important;
+        width: 114% !important;
+        margin-left: -4% !important;
+        
+    }
+
+    .container_desktop {
+        margin: 0px !important;
+        width: 90%;
+        margin-left: 5% !important;
+    }
+
+    .bottom_col {
+        padding: 0px !important;
+        font-size: 12px !important;
+    }
+
+        .terms {
+            font-size: 12px !important;
+            float: left !important;
+            margin-top: 10px;
+            
+            padding: 0px !important;
+        }
+
+        .button_bottom_row {
+            width: 114% !important;
+        margin-left: -6% !important;
+        padding: 0px !important;
+        }
+
+        
+
+        div.button-row {
+            margin-top: 0px;
+            padding: 0px !important;
+        }
+         .new-user {
+            height: 46px !important;
+         }
+
+         .login_col {
+            padding-top: 75px !important;
+            padding-bottom: 75px !important;
+            border-radius: 20px;
+            margin-top: -30px ;
+        }
+        
+
+        .span-new-user-2 {
+            position: relative;
+            top: 28% ;
+        }
+
+        a.alternative-link {
+     
+            font-size: 12px !important;
+          }
+
+        label.default-label {
+            
+        }
+
+        .password-input {
+            margin-top: -10px;
+        }
+        
+}
+    

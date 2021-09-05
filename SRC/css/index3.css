@@ -1,0 +1,77 @@
+
+
+button.tob {
+  margin: 10px 6px 0px 2px !important;
+}
+
+ul.tt{
+  margin-top: 30px !important;
+}
+
+.rell {
+  pointer-events: none;
+  display: none;
+}
+
+.rall {
+  pointer-events: none;
+  display: none;
+}
+
+
+.tbb {
+  width: 120px;
+  margin: 0px 15px 0px 0px !important;
+  height: 45px;
+  border-radius: 30px;
+  
+}
+
+.tbbb {
+  width: 120px;
+  margin: -5px 15px 0px -10px !important;
+  height: 45px;
+  border-radius: 10px;
+  
+}
+
+.real  {
+  pointer-events: none;
+  background-color: grey !important;
+}
+
+.reall  {
+  display: none;
+}
+
+.fake {
+  
+
+}
+
+
+
+.graphchartt{
+  position: fixed;
+  left: 45.4% !important;
+  margin-top: -60px !important;
+  padding-left: 0px !important;
+  
+}
+
+.leftside {
+  max-width: 49% !important;
+  margin-top: 10px;
+}
+
+.transf {
+  margin: 40px 0px 0px -19px !important;
+  
+}
+.mainstar {
+  margin-left: 50px !important;
+}
+
+.binder {
+  display: none
+}

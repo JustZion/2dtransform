@@ -1,0 +1,92 @@
+ [
+      [this.ax , this.ay , 1], [this.bx , this.by , 1], [this.cx , this.cy , 1], 
+      [this.dx , this.dy , 1], [this.ex , this.ey , 1], [this.fx , this.fy , 1], 
+      [this.ex , this.ey , 1], [this.gx , this.gy , 1], [this.hx , this.hy , 1], 
+      [this.ix , this.iy , 1], [this.jx , this.jy , 1], [this.kx , this.ky , 1], 
+      [this.lx , this.ly , 1], [this.mx , this.my , 1], [this.nx , this.ny , 1], 
+      [this.ox , this.oy , 1], [this.px , this.py , 1], [this.qx , this.qy , 1], 
+      [this.rx , this.ry , 1], [this.sx , this.sy , 1], [this.tx , this.ty , 1], 
+      [this.ux , this.uy , 1], [this.vx , this.vy , 1], [this.wx , this.wy , 1], 
+      [this.xx , this.yx , 1], [this.yx , this.yy , 1], [this.zx , this.zy ]
+    ]
+
+
+     [
+      [this.ax , this.ay ], [this.bx , this.by ], [this.cx , this.cy ], 
+      [this.dx , this.dy ], [this.ex , this.ey ], [this.fx , this.fy ], 
+      [this.ex , this.ey ], [this.gx , this.gy ], [this.hx , this.hy ], 
+      [this.ix , this.iy ], [this.jx , this.jy ], [this.kx , this.ky ], 
+      [this.lx , this.ly ], [this.mx , this.my ], [this.nx , this.ny ], 
+      [this.ox , this.oy ], [this.px , this.py ], [this.qx , this.qy ], 
+      [this.rx , this.ry ], [this.sx , this.sy ], [this.tx , this.ty ], 
+      [this.ux , this.uy ], [this.vx , this.vy ], [this.wx , this.wy ], 
+      [this.cxx , this.y ], [this.zx , this.zy ], 
+    ]
+
+     { this.ax , this.ay },{ this.bx , this.by },{ this.cx , this.cy }, 
+     { this.dx , this.dy },{ this.ex , this.ey },{ this.fx , this.fy }, 
+     { this.ex , this.ey },{ this.gx , this.gy },{ this.hx , this.hy }, 
+     { this.ix , this.iy },{ this.jx , this.jy },{ this.kx , this.ky }, 
+     { this.lx , this.ly },{ this.mx , this.my },{ this.nx , this.ny }, 
+     { this.ox , this.oy },{ this.px , this.py },{ this.qx , this.qy }, 
+     { this.rx , this.ry },{ this.sx , this.sy },{ this.tx , this.ty }, 
+     { this.ux , this.uy },{ this.vx , this.vy },{ this.wx , this.wy }, 
+     { this.xx , this.yx },{ this.yx , this.yy }, {this.zx , this.zy }
+
+    [
+      this.ax , this.ay , this.bx , this.by , this.cx , this.cy , 
+      this.dx , this.dy , this.ex , this.ey , this.fx , this.fy , 
+      this.ex , this.ey , this.gx , this.gy , this.hx , this.hy , 
+      this.ix , this.iy , this.jx , this.jy , this.kx , this.ky , 
+      this.lx , this.ly , this.mx , this.my , this.nx , this.ny , 
+      this.ox , this.oy , this.px , this.py , this.qx , this.qy , 
+      this.rx , this.ry , this.sx , this.sy , this.tx , this.ty , 
+      this.ux , this.uy , this.vx , this.vy , this.wx , this.wy , 
+      this.yx , this.yx , this.yx , this.yy , this.zx , this.zy 
+    ]
+
+    [ this.ax , this.bx , this.cx ,  
+      this.dx , this.ex , this.fx  , 
+       this.gx , this.hx  , 
+      this.ix , this.jx , this.kx  , 
+      this.lx , this.mx , this.nx  , 
+      this.ox , this.px , this.qx  , 
+      this.rx , this.sx , this.tx  , 
+      this.ux , this.vx , this.wx  , 
+      this.xx , this.yx  , this.zx ]
+
+
+ [this.ay,  this.by,  this.cy,  
+ this.dy,  this.ey,  this.fy,  
+      this.gy,  this.hy,  
+      this.iy,  this.jy,  this.ky,  
+      this.ly,  this.my,  this.ny,  
+      this.oy,  this.py,  this.qy,  
+      this.ry,  this.sy,  this.ty,  
+      this.uy,  this.vy,  this.wy,  
+    this.xy , this.yy  , this.zy ]
+
+
+ // var e = {
+        //   x: this.xaxis.slice(0,this.entry),
+        //   y: this.yaxis.slice(0,this.entry),
+        //   mode: 'lines+markers',
+        //   type: 'scatter'
+        // };
+        // var data = [e];
+
+        // Plotly.newPlot('myyDiv', data);
+        // a= this.xaxis.slice(0,this.entry)
+        // console.log('runnn',this.xaxis.slice(0,this.entry))
+        // a.push(a[0])
+        // b = this.yaxis.slice(0,this.entry)
+        // b.push(b[0])
+        // var e = {
+        //   x: this.xaxis.slice(0,this.entry),
+        //   y: this.yaxis.slice(0,this.entry),
+        //   mode: 'lines+markers',
+        //   type: 'scatter'
+        // };
+        // var data = [e];
+
+        // Plotly.newPlot('myyDiv', data);

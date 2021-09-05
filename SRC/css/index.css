@@ -1,0 +1,166 @@
+.body {
+  user-select: none !important;
+}.fr {
+  width: 380px;
+  max-width: 380px;
+  font-family: 'Alclonica';
+  margin-bottom: -10px;
+}
+
+
+
+.frr {
+  max-width: 400px;
+  
+  margin: 35px 0px 20px 0px ;
+}
+
+.fc {
+  margin-right: 20px;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: none!important;
+  box-shadow: none!important;
+  
+}
+
+.input-field {
+  width: 70%;
+  margin-left: 45px;
+  
+  
+}
+
+.default-label {
+  margin-left: -75px;
+  margin-top: -10px;
+  color: black !important;
+  font-size: 24px !important;
+}
+
+.default-input {
+  padding-left: 20px !important;
+  text-align: center;
+  margin-left: -20px !important;
+  padding-right: 10px !important;
+  font-size: 17px !important;
+  color: black !important;
+  border-radius: 18px !important;
+  border-bottom: none!important;
+}
+
+
+.default-inputt {
+  padding-left: 20px !important;
+  text-align: center;
+  margin-left: -10px !important;
+  padding-right: 10px !important;
+  font-size: 17px !important;
+  color: black !important;
+  border-radius: 18px !important;
+  border-bottom: none!important;
+}
+
+.default-input3 {
+  padding-left: 10px !important;
+  width: 230px !important;
+  height: 50px !important;
+  text-align: center;
+  padding-right: 10px !important;
+  font-size: 17px !important;
+  color: black !important;
+  border-radius: 18px !important;
+  border-bottom: none!important;
+  margin: 10px 0px 0px -57px !important;
+  border: 2px solid grey !important;
+}
+
+i.cancel {
+  cursor: pointer;
+  position: relative;
+  top: -20px; left: 205px;
+  font-size: 28px;
+}
+
+i.cancelb {
+  cursor: pointer;
+  position: relative;
+  top: -16px; left: -23px;
+  font-size: 28px;
+}
+
+.default-input4 {
+  padding-left: 10px !important;
+  
+  width: 90px !important;
+  text-align: center;
+  padding-right: 10px !important;
+  font-size: 17px !important;
+  color: black !important;
+  border-radius: 18px !important;
+  border-bottom: none!important;
+  margin: 10px 5px 0px -10px !important;
+  border: 2px solid grey !important;
+}
+
+.maxed {
+  margin: 0px 0px 0px 50px !important;
+  width: 100% !important;
+}
+
+.maxedd {
+  margin: 0px 0px 0px 120px !important;
+  width: 100% !important;
+}
+
+
+.default-labell {
+  margin-left: -65px;
+  margin-top: -10px;
+  color: black !important;
+  font-size: 24px !important;
+}
+
+.default-inputt {
+  width: 67% !important;
+  margin-left: 18px !important;
+  padding-left: 20px !important;
+  text-align: center;
+  padding-right: 10px !important;
+  font-size: 19px !important;
+  color: grey !important;
+  border-radius: 18px !important;
+  border-bottom: none!important;
+}
+
+.input-fieldd {
+  width: 100%;
+  margin-left: 75px;
+}
+
+.active {
+  display: block;
+  margin-top: 20px ;
+  font-size: 30px !important;
+}
+
+.activee {
+  display: none;
+}
+
+.inactive {
+  display: block
+}
+
+.active2 {
+  display: block
+}
+
+::placeholder {
+  color: grey;
+  font-weight: 100;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+}
+

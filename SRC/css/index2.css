@@ -1,0 +1,113 @@
+#myDiv {
+  margin-top: 10px !important;
+}
+
+.btn-solve {
+  width: 90% !important;
+  margin: 5% 5% 0% 1.5% !important;
+  border-radius: 30px;
+  height: 55px !important;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+
+.btn-solvee {
+  width: 70% !important;
+  margin: 7% 15% 0% 15% !important;
+  border-radius: 30px;
+  height: 50px !important;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+
+i.bicons {
+  font-size: 20px;
+  margin-left: 5px;
+  position: relative;
+  top: 4px;
+  
+}
+
+i.biconss {
+  font-size: 20px;
+  margin-left: -10px;
+  position: relative;
+  top: 4px;
+  left: -20px;
+  
+}
+
+.fakke {
+
+}
+
+i.bbiconss {
+  font-size: 33px !important;
+  margin-left:30px;
+  position: relative;
+  top: 2px;
+  left: 0px;
+  
+}
+
+i.hi {
+  font-size: 30px !important;
+  position: relative !important;
+  left: -8px;
+ 
+  
+  
+}
+
+ul.ull {
+  position: relative;
+  left: -10px !important;
+}
+
+li.lif {
+  position: relative;
+  left: 12px !important;
+}
+
+.backn {
+  font-size: 20px;
+}
+
+.navbar-head {
+  max-width: 500px !important;
+}
+
+.navbar-main {
+  margin-bottom: 20px;
+
+ 
+}
+
+.brand2 {
+  margin-left: -15px !important;
+  letter-spacing: 2px !important;
+  font-weight: 600;
+  
+}
+
+.graphh {
+  margin-left: 42%;
+  margin-top: 30px;
+  height: 70px !important;
+  width: 80px !important;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.ans , .que {
+  margin-top: 35px;
+}
+
+.mainn {
+  margin: 0px !important;
+  padding-bottom: 150px;
+}
